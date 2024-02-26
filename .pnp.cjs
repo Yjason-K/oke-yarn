@@ -1818,7 +1818,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["esbuild", [\
       ["npm:0.19.12", {\
-        "packageLocation": "./.yarn/cache/esbuild-npm-0.19.12-fb5a3a4313-0f2d21ffe2.zip/node_modules/esbuild/",\
+        "packageLocation": "./.yarn/unplugged/esbuild-npm-0.19.12-fb5a3a4313/node_modules/esbuild/",\
         "packageDependencies": [\
           ["esbuild", "npm:0.19.12"],\
           ["@esbuild/aix-ppc64", "npm:0.19.12"],\
