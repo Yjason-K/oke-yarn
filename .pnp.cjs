@@ -36,6 +36,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.57.0"],\
           ["eslint-plugin-react-hooks", "virtual:6bcfacdae27982354e2f898b38e1f1d0e4257d796f104c3d0031a8e09b391fbfb55410fd889164e1200e0d9ff1a4da884492604f76c62d599178d7c26a1252f0#npm:4.6.0"],\
           ["eslint-plugin-react-refresh", "virtual:6bcfacdae27982354e2f898b38e1f1d0e4257d796f104c3d0031a8e09b391fbfb55410fd889164e1200e0d9ff1a4da884492604f76c62d599178d7c26a1252f0#npm:0.4.5"],\
+          ["immer", "npm:10.0.3"],\
           ["json-server", "npm:1.0.0-alpha.23"],\
           ["lodash", "npm:4.17.21"],\
           ["react", "npm:18.2.0"],\
@@ -63,6 +64,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.57.0"],\
           ["eslint-plugin-react-hooks", "virtual:6bcfacdae27982354e2f898b38e1f1d0e4257d796f104c3d0031a8e09b391fbfb55410fd889164e1200e0d9ff1a4da884492604f76c62d599178d7c26a1252f0#npm:4.6.0"],\
           ["eslint-plugin-react-refresh", "virtual:6bcfacdae27982354e2f898b38e1f1d0e4257d796f104c3d0031a8e09b391fbfb55410fd889164e1200e0d9ff1a4da884492604f76c62d599178d7c26a1252f0#npm:0.4.5"],\
+          ["immer", "npm:10.0.3"],\
           ["json-server", "npm:1.0.0-alpha.23"],\
           ["lodash", "npm:4.17.21"],\
           ["react", "npm:18.2.0"],\
@@ -2704,6 +2706,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["immer", [\
+      ["npm:10.0.3", {\
+        "packageLocation": "./.yarn/cache/immer-npm-10.0.3-174ab52899-282a4f8479.zip/node_modules/immer/",\
+        "packageDependencies": [\
+          ["immer", "npm:10.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["import-fresh", [\
       ["npm:3.3.0", {\
         "packageLocation": "./.yarn/cache/import-fresh-npm-3.3.0-3e34265ca9-7f882953aa.zip/node_modules/import-fresh/",\
@@ -4293,7 +4304,7 @@ const RAW_RUNTIME_STATE =
           ["zustand", "virtual:6bcfacdae27982354e2f898b38e1f1d0e4257d796f104c3d0031a8e09b391fbfb55410fd889164e1200e0d9ff1a4da884492604f76c62d599178d7c26a1252f0#npm:4.5.1"],\
           ["@types/immer", null],\
           ["@types/react", "npm:18.2.58"],\
-          ["immer", null],\
+          ["immer", "npm:10.0.3"],\
           ["react", "npm:18.2.0"],\
           ["use-sync-external-store", "virtual:0e94845e46f3a086c7dc5f2a3d6f11657495ad36e6612b79eb14117947b18ade4a516179dff95d0742bf47c5c6162e345b102ec2ddcb1d8839d0b91317bf5322#npm:1.2.0"]\
         ],\
